@@ -1,2 +1,2 @@
 # ShoppeVN - Mini project from F8
-# Click here to see:
+# Click here: https://lam-hieu.github.io/ShoppeVN/
